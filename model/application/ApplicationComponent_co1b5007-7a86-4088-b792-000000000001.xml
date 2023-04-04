@@ -6,4 +6,7 @@
   <properties
       key="SF"
       value="Salesforce CRM"/>
+  <properties
+      key="type"
+      value="Salesforce CRM"/>
 </archimate:ApplicationComponent>
