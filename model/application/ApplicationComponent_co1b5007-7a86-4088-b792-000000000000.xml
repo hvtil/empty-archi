@@ -6,5 +6,7 @@
   <properties
       key="SAP"
       value="SAP Business Network"/>
+	  <properties
+	  key="type"
       value="SAP Business Network"/>
 </archimate:ApplicationComponent>
