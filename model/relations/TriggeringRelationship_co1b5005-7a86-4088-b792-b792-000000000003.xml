@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="co1b5005-7a86-4088-b792-b792-000000000003"
+    documentation="CLMBS">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_co1b5007-7a86-4088-b792-000000000003.xml#co1b5007-7a86-4088-b792-000000000003"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_co1b5007-7a86-4088-b792-000000000002.xml#co1b5007-7a86-4088-b792-000000000002"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenText"
+    id="co1b5007-7a86-4088-b792-000000000003"
+    documentation="CLMBS">
+  <properties
+      key="OT"
+      value="OpenText DMS"/>
+</archimate:ApplicationComponent>
