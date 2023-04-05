@@ -6,4 +6,7 @@
   <properties
       key="type"
       value="Salesforce CRM"/>
+  <properties
+      key="Lifecycle"
+      value="Obsolete"/>
 </archimate:ApplicationComponent>
