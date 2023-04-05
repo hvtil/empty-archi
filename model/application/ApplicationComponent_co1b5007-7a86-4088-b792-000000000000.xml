@@ -3,10 +3,7 @@
     name="SAP"
     id="co1b5007-7a86-4088-b792-000000000000"
     documentation="CLMBS">
-  <properties
-      key="SAP"
-      value="SAP Business Network"/>
-  <properties
-      key="type"
+	<properties
+	  key="type"
       value="SAP Business Network"/>
 </archimate:ApplicationComponent>
