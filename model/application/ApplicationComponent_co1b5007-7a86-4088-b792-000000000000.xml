@@ -6,4 +6,7 @@
 	<properties
 	  key="type"
       value="SAP Business Network."/>
+    <properties
+      key="lifecycle"
+      value="Target"/>
 </archimate:ApplicationComponent>
