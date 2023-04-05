@@ -4,9 +4,6 @@
     id="co1b5007-7a86-4088-b792-000000000001"
     documentation="CLMBS">
   <properties
-      key="SF"
-      value="Salesforce CRM"/>
-  <properties
       key="type"
       value="Salesforce CRM"/>
 </archimate:ApplicationComponent>
