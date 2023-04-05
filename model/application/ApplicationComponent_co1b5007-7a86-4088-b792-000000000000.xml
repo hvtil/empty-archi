@@ -5,5 +5,5 @@
     documentation="CLMBS">
 	<properties
 	  key="type"
-      value="SAP Business Network"/>
+      value="SAP Business Network."/>
 </archimate:ApplicationComponent>
